@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/TangoChain/tango/master/logo_small.png"/>
+
 ## Tango 
 
 Official Tango Golang Client based on the go-ethereum implementation.
