@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/TangoChain/tango/master/logo_small.png"/>
 
-## Tango 
+## Tango Chain
 
-Official Tango Golang Client based on the go-ethereum implementation.
+Official Tango Chain Golang Client based on the go-ethereum implementation.
+
+<a href="https://tangochain.io/">tangochain.io</a>
 
 ## Features
 - Ethereum compatible,but low gas fee.
