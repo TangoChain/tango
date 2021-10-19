@@ -192,8 +192,8 @@ type POSA struct {
 	fakeDiff bool // Skip difficulty verifications
 }
 
-// New creates a proof-of-stake-authority consensus engine with the initial
-// validators set to the ones provided by the user.
+// Proof-of-stake-authority consensus engine with the initial
+// validators and the ones provided by the user.
 func New(chainConfig *params.ChainConfig, db ethdb.Database) *POSA {
 	// Set any missing consensus parameters to their defaults
 	conf := *chainConfig.POSA
